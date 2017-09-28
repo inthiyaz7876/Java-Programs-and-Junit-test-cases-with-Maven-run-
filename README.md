@@ -1,7 +1,9 @@
 
 Process for run the all programs
 
-> Clone the project into your directory.
+> Clone the project into your directory from here https://github.com/inthiyaz7876/Java-Programs-and-Junit-test-cases-with-Maven-run-.git
+ 
+>  install java 
 
 > Install maven 3.9.9 version.
 
@@ -11,6 +13,11 @@ Process for run the all programs
 
 
 
-Here some answers for Java Questions attached file named as "java-assignment2". 
+
+ Open questions in attached file named as "java-assignment2".
+
+ Open Src folder for answers. 
+
+ 
 
 
