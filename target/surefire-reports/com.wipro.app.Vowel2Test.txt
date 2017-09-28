@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.wipro.app.Vowel2Test
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE! - in com.wipro.app.Vowel2Test
+com.wipro.app.Vowel2Test.testVowel()  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.wipro.app.Vowel2Test.testVowel(Vowel2Test.java:27)
+
+com.wipro.app.Vowel2Test.testConsonant()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.wipro.app.Vowel2Test.testConsonant(Vowel2Test.java:33)
+
+com.wipro.app.Vowel2Test.testVowelConsonant()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.wipro.app.Vowel2Test.testVowelConsonant(Vowel2Test.java:39)
+
